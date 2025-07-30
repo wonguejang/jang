@@ -36,7 +36,7 @@
 		#intro_btn, #java_btn, #cpp_btn {
 			all : unset;
 		}
-		
+//여기인가
 	</style>
 	<script>
 		let point = "${dto.point}"
